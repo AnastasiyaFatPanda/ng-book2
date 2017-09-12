@@ -1,5 +1,24 @@
 # ng-book 2: The Complete Guide to Angular 2 Sample Code
+https://github.com/AnastasiyaFatPanda/ng-book2.git
+git@github.com:AnastasiyaFatPanda/ng-book2.git
 
+…or create a new repository on the command line
+
+echo "# ng-book2" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin git@github.com:AnastasiyaFatPanda/ng-book2.git
+git push -u origin master
+
+…or push an existing repository from the command line
+
+git remote add origin git@github.com:AnastasiyaFatPanda/ng-book2.git
+git push -u origin master
+
+…or import code from another repository
+
+You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
 ## Organization
 
 Hi! Here's the sample code for the book.
