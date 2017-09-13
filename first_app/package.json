@@ -1,0 +1,17 @@
+{
+  "name": "first_app",
+  "version": "1.0.0",
+  "description": "first app",
+  "main": "app.ts",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "ng test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AnastasiyaFatPanda/ng-book2.git"
+  },
+  "author": "AnastasiyaFatPanda",
+  "license": "MIT"
+}
